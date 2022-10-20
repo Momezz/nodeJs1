@@ -1,0 +1,14 @@
+{
+  "name": "nodejs1",
+  "version": "1.0.0",
+  "description": "'usando libreria fake'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'julian'",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
